@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Hoang</h1>
-<h3 align="center">A passionate AI/ML engineer</h3>
+
 
 - 📫 How to reach me **duchoang05102k4@gmail.com**
 
